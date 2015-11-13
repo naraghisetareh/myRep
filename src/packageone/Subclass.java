@@ -16,7 +16,7 @@ import packagetwo.Myclass;
 
  
 public class Subclass {
-	///yeeeeeaaaa
+	///yeeeeeaaaazzzzzzzzzz
 	/*public void a()
 	{
 		Myclass m = new Myclass();
